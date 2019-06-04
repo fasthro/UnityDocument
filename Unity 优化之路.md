@@ -52,16 +52,22 @@ IL2CPP 打包
 
 如果3D 和光照渲染方面不是特别多可以选择 Never 关闭此选项，否则可以设置自动
 
+![avatar](Images/Unity-优化/BlitType.jpg)
+
 ---
 
 ## **Camera 设置（提高帧率）**
 
 可以选择关闭 Allow HDR 和抗锯齿 Allow MSAA 这两个选项提高渲染效率
 
+![avatar](Images/Unity-优化/Camera-HDR.jpg)
+
 ---
 
 ## **Lighting 设置（提高帧率）**
 
 如果没有使用实时光，可以关闭 Lighting 设置中 Realtime Lighting 和 Mixed Lighting 选项
+
+![avatar](Images/Unity-优化/Lighting-Setting.jpg)
 
 
